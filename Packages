@@ -4,7 +4,7 @@ Version: 1.0-1E
 Section: Addons (Zeppelin)
 Maintainer: NeutronFile <neutronfile19@icloud.com>
 Depends: com.alexzielenski.zeppelin
-Filename: debs//org.neutronfile.jbzcarrier_1.0-1E_iphoneos-arm_NeutronFile.deb
+Filename: debs//org.protonfile.jbzcarrier_1.0-1E_iphoneos-arm_NeutronFile.deb
 Size: 8650
 MD5sum: 202173a80112ad539988f79cbf6e78e8
 SHA1: 32ca2b9789e099fbca51d7614cdfcbeeef8875c4
@@ -23,7 +23,7 @@ Version: 0.0.2E
 Section: Tweaks
 Maintainer: ProtonFile <neutronfile19@icloud.com>
 Depends: mobilesubstrate
-Filename: debs//org.neutronfile.newtermtm_0.0.2E_iphoneos-arm_NeutronFile.deb
+Filename: debs//org.protonfile.newtermtm_0.0.2E_iphoneos-arm_NeutronFile.deb
 Size: 30012
 MD5sum: 0fab029504a9a4cbe6d937b0a836c5db
 SHA1: e86cdeaa0880a8dfae0fb7ab60616ea0f79fefd1
