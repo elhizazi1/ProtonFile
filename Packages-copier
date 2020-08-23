@@ -1,0 +1,19 @@
+Package: org.neutronfile.jbzcarrier
+Architecture: iphoneos-arm
+Version: 1.0-1E
+Section: Addons (Zeppelin)
+Maintainer: NeutronFile <neutronfile19@icloud.com>
+Depends: com.alexzielenski.zeppelin
+Filename: debs//org.neutronfile.jbzcarrier_1.0-1E_iphoneos-arm_NeutronFile.deb
+Size:
+MD5sum:
+SHA1:
+SHA256:
+Homepage: http://neutronfile.org/
+Description: Jailbreak zeppelin carrier requests
+Name: Jailbreak carrier
+Author: NeutronFile <neutronfile19@icloud.com>
+Depiction: https://elhizazi1.github.io/ProtonFile/depic/jbzcarrier.html
+Sponsor: NeutronFile.org <http://neutronfile.org/>
+Icon: https://i.imgur.com/3QJUcae.png
+
