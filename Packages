@@ -1,4 +1,4 @@
-Package: org.neutronfile.jbzcarrier
+Package: org.protonfile.jbzcarrier
 Architecture: iphoneos-arm
 Version: 1.0-1E
 Section: Addons (Zeppelin)
