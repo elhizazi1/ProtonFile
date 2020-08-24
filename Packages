@@ -1,33 +1,36 @@
-Package: org.protonfile.newtermtm
-Architecture: iphoneos-arm
-Version: 0.0.2E
-Section: Tweaks
-Maintainer: ProtonFile <neutronfile19@gmail.com>
-Depends: mobilesubstrate
-Filename: debs//org.protonfile.newtermtm_0.0.2E_iphoneos-arm_NeutronFile.deb
-Size: 30012
-MD5sum: 43b95d009289e6a69e8ce639b8c8abbe
-SHA1: 254a680871e7f960d1250a105ef9d56fdea99570
-SHA256: 416c92fd1bd1c90a0318735274b75a9f77e35e19999a106f7f4ce77958375d5b
-Homepage: https://neutronfile.org/
-Description: custom NewTerm color schemes with ansi color codes
-Name: NewTerm Theme Manager
-Author: NeutronFile <neutronfile19@gmail.com>
-Depiction: https://elhizazi1.github.io/ProtonFile/depic/newtermth.html
-
 Package: org.protonfile.jbzcarrier
 Architecture: iphoneos-arm
 Version: 1.0-1E
 Section: Addons (Zeppelin)
-Maintainer: ProtonFile <neutronfile19@icloud.com>
+Maintainer: NeutronFile <neutronfile19@icloud.com>
 Depends: com.alexzielenski.zeppelin
 Filename: debs//org.protonfile.jbzcarrier_1.0-1E_iphoneos-arm_NeutronFile.deb
 Size: 8650
-MD5sum: ce2199fb3ff38927dcdfdda6699bf676
-SHA1: 95a0d9f06ac0dfed15255719e293ef1781ebbc3c
-SHA256: 40d8789c6254cab7707c86d6d148dd3b024b38662f14404c0283baab1cb5d19f
-Homepage: https://neutronfile.org/
+MD5sum: 202173a80112ad539988f79cbf6e78e8
+SHA1: 32ca2b9789e099fbca51d7614cdfcbeeef8875c4
+SHA256: 99ce3fbf51fd6ec98c7fdca024fb74c0ef2c238d8cc6b3590b30c7cf44fac6b4
+Homepage: http://neutronfile.org/
 Description: Jailbreak zeppelin carrier requests
 Name: Jailbreak carrier
 Author: NeutronFile <neutronfile19@icloud.com>
-Depiction: https://elhizazi1.github.io/ProtonFile/depic/jbcarrier.html
+Depiction: https://elhizazi1.github.io/ProtonFile/depic/jbzcarrier.html
+Sponsor: NeutronFile.org <http://neutronfile.org/>
+Icon: https://i.imgur.com/3QJUcae.png
+
+Package: org.protonfile.newtertm
+Architecture: iphoneos-arm
+Version: 0.0.2E
+Section: Tweaks
+Maintainer: ProtonFile <neutronfile19@icloud.com>
+Depends: mobilesubstrate
+Filename: debs//org.protonfile.newtermtm_0.0.2E_iphoneos-arm_NeutronFile.deb
+Size: 30012
+MD5sum: 0fab029504a9a4cbe6d937b0a836c5db
+SHA1: e86cdeaa0880a8dfae0fb7ab60616ea0f79fefd1
+SHA256: 387b6d1f937bc6d517f7e2f049add54ffd78da03513935f91dfc6cc5976d11bc
+Homepage: http://neutronfile.org/
+Description:
+Name: Neterm Them Manager
+Author: NeutronFile <neutronfile19@icloud.com>
+Depiction: https://elhizazi1.github.io/ProtonFile/depic/newtermtm.html
+Sponsor: NeutronFile.org <http://neutronfile.org/>
